@@ -1,0 +1,55 @@
+2024-09-10T09:09:27.898Z error: NotFoundError: Route not found
+    at H:\Express-api\app.js:25:8
+    at Layer.handle [as handle_request] (H:\Express-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (H:\Express-api\node_modules\express\lib\router\index.js:328:13)
+    at H:\Express-api\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (H:\Express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (H:\Express-api\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (H:\Express-api\node_modules\body-parser\lib\types\json.js:122:7)
+    at Layer.handle [as handle_request] (H:\Express-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (H:\Express-api\node_modules\express\lib\router\index.js:328:13)
+    at H:\Express-api\node_modules\express\lib\router\index.js:286:9
+2024-09-10T09:11:22.273Z error: NotFoundError: Route not found
+    at H:\Express-api\app.js:25:8
+    at Layer.handle [as handle_request] (H:\Express-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (H:\Express-api\node_modules\express\lib\router\index.js:328:13)
+    at H:\Express-api\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (H:\Express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (H:\Express-api\node_modules\express\lib\router\index.js:280:10)
+    at H:\Express-api\node_modules\body-parser\lib\read.js:137:5
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (H:\Express-api\node_modules\raw-body\index.js:238:16)
+    at done (H:\Express-api\node_modules\raw-body\index.js:227:7)
+2024-09-10T09:13:26.878Z error: SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at createStrictSyntaxError (H:\Express-api\node_modules\body-parser\lib\types\json.js:169:10)
+    at parse (H:\Express-api\node_modules\body-parser\lib\types\json.js:86:15)
+    at H:\Express-api\node_modules\body-parser\lib\read.js:128:18
+    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)
+    at invokeCallback (H:\Express-api\node_modules\raw-body\index.js:238:16)
+    at done (H:\Express-api\node_modules\raw-body\index.js:227:7)
+    at IncomingMessage.onEnd (H:\Express-api\node_modules\raw-body\index.js:287:7)
+    at IncomingMessage.emit (node:events:518:28)
+    at endReadableNT (node:internal/streams/readable:1696:12)
+2024-09-10T09:13:38.077Z error: NotFoundError: Route not found
+    at H:\Express-api\app.js:25:8
+    at Layer.handle [as handle_request] (H:\Express-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (H:\Express-api\node_modules\express\lib\router\index.js:328:13)
+    at H:\Express-api\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (H:\Express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (H:\Express-api\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (H:\Express-api\node_modules\body-parser\lib\types\json.js:122:7)
+    at Layer.handle [as handle_request] (H:\Express-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (H:\Express-api\node_modules\express\lib\router\index.js:328:13)
+    at H:\Express-api\node_modules\express\lib\router\index.js:286:9
+2024-09-10T09:14:40.812Z error: NotFoundError: Route not found
+    at H:\Express-api\app.js:25:8
+    at Layer.handle [as handle_request] (H:\Express-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (H:\Express-api\node_modules\express\lib\router\index.js:328:13)
+    at H:\Express-api\node_modules\express\lib\router\index.js:286:9
+    at Function.process_params (H:\Express-api\node_modules\express\lib\router\index.js:346:12)
+    at next (H:\Express-api\node_modules\express\lib\router\index.js:280:10)
+    at jsonParser (H:\Express-api\node_modules\body-parser\lib\types\json.js:122:7)
+    at Layer.handle [as handle_request] (H:\Express-api\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (H:\Express-api\node_modules\express\lib\router\index.js:328:13)
+    at H:\Express-api\node_modules\express\lib\router\index.js:286:9
